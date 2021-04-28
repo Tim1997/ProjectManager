@@ -1,0 +1,21 @@
+<mah:MetroWindow x:Class="template__.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:template__"
+        mc:Ignorable="d"
+        
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:mah="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        WindowStartupLocation="CenterScreen"
+        DataContext="{StaticResource MainVM}"
+                 
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <materialDesign:Card Padding="32" Margin="16"
+                             HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Label Content="{Binding HelloWord}"/>
+        </materialDesign:Card>
+    </Grid>
+</mah:MetroWindow>

@@ -1,0 +1,17 @@
+{
+	"menus":
+	[
+    {
+      "Name": "Android",
+      "Source": "/Icons/android.png"
+    },
+    {
+      "Name": "Xamarin",
+      "Source": "/Icons/xamarin.png"
+    },
+    {
+      "Name": "Window",
+      "Source": "/Icons/window.png"
+    }
+  ]
+}

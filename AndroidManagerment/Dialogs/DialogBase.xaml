@@ -1,0 +1,47 @@
+﻿<UserControl x:Class="AndroidManagerment.Dialogs.DialogBase"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:AndroidManagerment.Dialogs"
+             mc:Ignorable="d" 
+             
+             xmlns:system="clr-namespace:System;assembly=mscorlib"
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid>
+        <Grid Margin="16">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="40"/>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <TextBlock x:Name="Title" Grid.Row="0" 
+                   FontSize="15" FontStretch="UltraExpanded" FontWeight="Bold"/>
+            <Grid Grid.Row="1" Name="dialogContent">
+
+            </Grid>
+            <StackPanel Orientation="Horizontal" FlowDirection="RightToLeft" Grid.Row="2" Margin="0,16,0,0">
+                <Button x:Name="ButtonTrue" IsDefault="True" 
+                    Command="{x:Static materialDesign:DialogHost.CloseDialogCommand}"
+                    
+                    Style="{DynamicResource MaterialDesignFlatButton}">
+                    <Button.CommandParameter>
+                        <system:Boolean>True</system:Boolean>
+                    </Button.CommandParameter>
+                    OK
+                </Button>
+                <Button x:Name="ButtonFalse" IsCancel="True" Margin="8,0,0,0" 
+                    Command="{x:Static materialDesign:DialogHost.CloseDialogCommand}" 
+                    Style="{DynamicResource MaterialDesignFlatButton}">
+                    <Button.CommandParameter>
+                        <system:Boolean>False</system:Boolean>
+                    </Button.CommandParameter>
+                    CANCEL
+                </Button>
+                
+            </StackPanel>
+        </Grid>
+    </Grid>
+</UserControl>

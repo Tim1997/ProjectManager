@@ -1,0 +1,41 @@
+D:\Run\Run\bin\Debug\Run.exe.config
+D:\Run\Run\bin\Debug\Run.exe
+D:\Run\Run\bin\Debug\Run.pdb
+D:\Run\Run\obj\Debug\Run.csprojAssemblyReference.cache
+D:\Run\Run\obj\Debug\Run.csproj.CoreCompileInputs.cache
+D:\Run\Run\obj\Debug\Run.exe
+D:\Run\Run\obj\Debug\Run.pdb
+C:\Users\PC NC\Desktop\BaseProject\BaseUnitTest\Run\Run\bin\Debug\Run.exe.config
+C:\Users\PC NC\Desktop\BaseProject\BaseUnitTest\Run\Run\bin\Debug\Run.exe
+C:\Users\PC NC\Desktop\BaseProject\BaseUnitTest\Run\Run\bin\Debug\Run.pdb
+C:\Users\PC NC\Desktop\BaseProject\BaseUnitTest\Run\Run\obj\Debug\Run.csproj.CoreCompileInputs.cache
+C:\Users\PC NC\Desktop\BaseProject\BaseUnitTest\Run\Run\obj\Debug\Run.exe
+C:\Users\PC NC\Desktop\BaseProject\BaseUnitTest\Run\Run\obj\Debug\Run.pdb
+C:\Users\PC NC\Desktop\BaseProject\BaseUnitTest\Run\Run\obj\Debug\Run.csprojAssemblyReference.cache
+C:\Users\PC NC\Desktop\BaseProject\BaseUnitTest\Run\Run\bin\Debug\Run.exe.manifest
+C:\Users\PC NC\Desktop\BaseProject\BaseUnitTest\Run\Run\bin\Debug\Run.application
+C:\Users\PC NC\Desktop\BaseProject\BaseUnitTest\Run\Run\obj\Debug\Run.exe.manifest
+C:\Users\PC NC\Desktop\BaseProject\BaseUnitTest\Run\Run\obj\Debug\Run.application
+D:\MyApp\SU3\SamsungUpdate\Run\Run\bin\Debug\Run.exe.config
+D:\MyApp\SU3\SamsungUpdate\Run\Run\bin\Debug\Run.exe.manifest
+D:\MyApp\SU3\SamsungUpdate\Run\Run\bin\Debug\Run.application
+D:\MyApp\SU3\SamsungUpdate\Run\Run\bin\Debug\Run.exe
+D:\MyApp\SU3\SamsungUpdate\Run\Run\bin\Debug\Run.pdb
+D:\MyApp\SU3\SamsungUpdate\Run\Run\obj\Debug\Run.csproj.CoreCompileInputs.cache
+D:\MyApp\SU3\SamsungUpdate\Run\Run\obj\Debug\Run.exe.manifest
+D:\MyApp\SU3\SamsungUpdate\Run\Run\obj\Debug\Run.application
+D:\MyApp\SU3\SamsungUpdate\Run\Run\obj\Debug\Run.exe
+D:\MyApp\SU3\SamsungUpdate\Run\Run\obj\Debug\Run.pdb
+D:\MyApp\SU3\SamsungUpdate\Run\Run\obj\Debug\Run.csprojAssemblyReference.cache
+D:\MyApp\SU3\SamsungUpdate\Run\Run\obj\Debug\Run.TrustInfo.xml
+C:\Users\NC TEAM\Desktop\duyanh\AndroidManagerment\AndroidManagerment\bin\Debug\_template\Window\UnitTest\template__\Run\Run\bin\Debug\Run.exe.config
+C:\Users\NC TEAM\Desktop\duyanh\AndroidManagerment\AndroidManagerment\bin\Debug\_template\Window\UnitTest\template__\Run\Run\bin\Debug\Run.exe.manifest
+C:\Users\NC TEAM\Desktop\duyanh\AndroidManagerment\AndroidManagerment\bin\Debug\_template\Window\UnitTest\template__\Run\Run\bin\Debug\Run.application
+C:\Users\NC TEAM\Desktop\duyanh\AndroidManagerment\AndroidManagerment\bin\Debug\_template\Window\UnitTest\template__\Run\Run\bin\Debug\Run.exe
+C:\Users\NC TEAM\Desktop\duyanh\AndroidManagerment\AndroidManagerment\bin\Debug\_template\Window\UnitTest\template__\Run\Run\bin\Debug\Run.pdb
+C:\Users\NC TEAM\Desktop\duyanh\AndroidManagerment\AndroidManagerment\bin\Debug\_template\Window\UnitTest\template__\Run\Run\obj\Debug\Run.csproj.CoreCompileInputs.cache
+C:\Users\NC TEAM\Desktop\duyanh\AndroidManagerment\AndroidManagerment\bin\Debug\_template\Window\UnitTest\template__\Run\Run\obj\Debug\Run.TrustInfo.xml
+C:\Users\NC TEAM\Desktop\duyanh\AndroidManagerment\AndroidManagerment\bin\Debug\_template\Window\UnitTest\template__\Run\Run\obj\Debug\Run.exe.manifest
+C:\Users\NC TEAM\Desktop\duyanh\AndroidManagerment\AndroidManagerment\bin\Debug\_template\Window\UnitTest\template__\Run\Run\obj\Debug\Run.application
+C:\Users\NC TEAM\Desktop\duyanh\AndroidManagerment\AndroidManagerment\bin\Debug\_template\Window\UnitTest\template__\Run\Run\obj\Debug\Run.exe
+C:\Users\NC TEAM\Desktop\duyanh\AndroidManagerment\AndroidManagerment\bin\Debug\_template\Window\UnitTest\template__\Run\Run\obj\Debug\Run.pdb

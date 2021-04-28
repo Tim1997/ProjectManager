@@ -1,0 +1,6 @@
+﻿//To comment use //
+//Write TestMethod in the order in which you want to run it!!!
+//If you have finished writing a testmethod just line break and write a new method in new line
+//example here:
+TestMethod1
+TestMethod2

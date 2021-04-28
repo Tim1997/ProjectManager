@@ -1,0 +1,112 @@
+C:\Users\Administrator\Desktop\AndroidManagerment\AndroidManagerment\bin\Debug\_template\Window\MVVM\template__\template__\bin\Debug\template__.exe.config
+C:\Users\Administrator\Desktop\AndroidManagerment\AndroidManagerment\bin\Debug\_template\Window\MVVM\template__\template__\bin\Debug\template__.exe
+C:\Users\Administrator\Desktop\AndroidManagerment\AndroidManagerment\bin\Debug\_template\Window\MVVM\template__\template__\bin\Debug\template__.pdb
+C:\Users\Administrator\Desktop\AndroidManagerment\AndroidManagerment\bin\Debug\_template\Window\MVVM\template__\template__\bin\Debug\ControlzEx.dll
+C:\Users\Administrator\Desktop\AndroidManagerment\AndroidManagerment\bin\Debug\_template\Window\MVVM\template__\template__\bin\Debug\MahApps.Metro.dll
+C:\Users\Administrator\Desktop\AndroidManagerment\AndroidManagerment\bin\Debug\_template\Window\MVVM\template__\template__\bin\Debug\MaterialDesignColors.dll
+C:\Users\Administrator\Desktop\AndroidManagerment\AndroidManagerment\bin\Debug\_template\Window\MVVM\template__\template__\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Administrator\Desktop\AndroidManagerment\AndroidManagerment\bin\Debug\_template\Window\MVVM\template__\template__\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Administrator\Desktop\AndroidManagerment\AndroidManagerment\bin\Debug\_template\Window\MVVM\template__\template__\bin\Debug\ControlzEx.pdb
+C:\Users\Administrator\Desktop\AndroidManagerment\AndroidManagerment\bin\Debug\_template\Window\MVVM\template__\template__\bin\Debug\ControlzEx.xml
+C:\Users\Administrator\Desktop\AndroidManagerment\AndroidManagerment\bin\Debug\_template\Window\MVVM\template__\template__\bin\Debug\MahApps.Metro.pdb
+C:\Users\Administrator\Desktop\AndroidManagerment\AndroidManagerment\bin\Debug\_template\Window\MVVM\template__\template__\bin\Debug\MahApps.Metro.xml
+C:\Users\Administrator\Desktop\AndroidManagerment\AndroidManagerment\bin\Debug\_template\Window\MVVM\template__\template__\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Administrator\Desktop\AndroidManagerment\AndroidManagerment\bin\Debug\_template\Window\MVVM\template__\template__\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Administrator\Desktop\AndroidManagerment\AndroidManagerment\bin\Debug\_template\Window\MVVM\template__\template__\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Administrator\Desktop\AndroidManagerment\AndroidManagerment\bin\Debug\_template\Window\MVVM\template__\template__\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Administrator\Desktop\AndroidManagerment\AndroidManagerment\bin\Debug\_template\Window\MVVM\template__\template__\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Administrator\Desktop\AndroidManagerment\AndroidManagerment\bin\Debug\_template\Window\MVVM\template__\template__\obj\Debug\template__.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\AndroidManagerment\AndroidManagerment\bin\Debug\_template\Window\MVVM\template__\template__\obj\Debug\App.g.cs
+C:\Users\Administrator\Desktop\AndroidManagerment\AndroidManagerment\bin\Debug\_template\Window\MVVM\template__\template__\obj\Debug\template___MarkupCompile.cache
+C:\Users\Administrator\Desktop\AndroidManagerment\AndroidManagerment\bin\Debug\_template\Window\MVVM\template__\template__\obj\Debug\template___MarkupCompile.lref
+C:\Users\Administrator\Desktop\AndroidManagerment\AndroidManagerment\bin\Debug\_template\Window\MVVM\template__\template__\obj\Debug\App.baml
+C:\Users\Administrator\Desktop\AndroidManagerment\AndroidManagerment\bin\Debug\_template\Window\MVVM\template__\template__\obj\Debug\template__.g.resources
+C:\Users\Administrator\Desktop\AndroidManagerment\AndroidManagerment\bin\Debug\_template\Window\MVVM\template__\template__\obj\Debug\template__.Properties.Resources.resources
+C:\Users\Administrator\Desktop\AndroidManagerment\AndroidManagerment\bin\Debug\_template\Window\MVVM\template__\template__\obj\Debug\template__.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\AndroidManagerment\AndroidManagerment\bin\Debug\_template\Window\MVVM\template__\template__\obj\Debug\template__.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\AndroidManagerment\AndroidManagerment\bin\Debug\_template\Window\MVVM\template__\template__\obj\Debug\template__.csproj.CopyComplete
+C:\Users\Administrator\Desktop\AndroidManagerment\AndroidManagerment\bin\Debug\_template\Window\MVVM\template__\template__\obj\Debug\template__.exe
+C:\Users\Administrator\Desktop\AndroidManagerment\AndroidManagerment\bin\Debug\_template\Window\MVVM\template__\template__\obj\Debug\template__.pdb
+C:\Users\Administrator\Desktop\AndroidManagerment\AndroidManagerment\bin\Debug\_template\Window\MVVM\template__\template__\obj\Debug\Views\Windows\MainWindow.g.cs
+C:\Users\Administrator\Desktop\AndroidManagerment\AndroidManagerment\bin\Debug\_template\Window\MVVM\template__\template__\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Administrator\Desktop\AndroidManagerment\AndroidManagerment\bin\Debug\_template\Window\MVVM\template__\template__\obj\Debug\ResourceXaml\MainResource.baml
+C:\Users\Administrator\Desktop\AndroidManagerment\AndroidManagerment\bin\Debug\_template\Window\MVVM\template__\template__\obj\Debug\Views\Windows\MainWindow.baml
+C:\Users\Administrator\Desktop\AndroidManagerment\AndroidManagerment\bin\Debug\_template\Window\MVVM\template__\template__\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\AndroidManagerment\AndroidManagerment\bin\Debug\_template\Window\MVVM\template__\template__\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\AndroidManagerment\AndroidManagerment\bin\Debug\_template\Window\MVVM\template__\template__\bin\Debug\AutoMapper.dll
+C:\Users\Administrator\Desktop\AndroidManagerment\AndroidManagerment\bin\Debug\_template\Window\MVVM\template__\template__\bin\Debug\AutoMapper.xml
+C:\Users\Administrator\Desktop\template__\template__\bin\Debug\template__.exe.config
+C:\Users\Administrator\Desktop\template__\template__\bin\Debug\template__.exe
+C:\Users\Administrator\Desktop\template__\template__\bin\Debug\template__.pdb
+C:\Users\Administrator\Desktop\template__\template__\bin\Debug\AutoMapper.dll
+C:\Users\Administrator\Desktop\template__\template__\bin\Debug\ControlzEx.dll
+C:\Users\Administrator\Desktop\template__\template__\bin\Debug\MahApps.Metro.dll
+C:\Users\Administrator\Desktop\template__\template__\bin\Debug\MaterialDesignColors.dll
+C:\Users\Administrator\Desktop\template__\template__\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Administrator\Desktop\template__\template__\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Administrator\Desktop\template__\template__\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\template__\template__\bin\Debug\AutoMapper.xml
+C:\Users\Administrator\Desktop\template__\template__\bin\Debug\ControlzEx.pdb
+C:\Users\Administrator\Desktop\template__\template__\bin\Debug\ControlzEx.xml
+C:\Users\Administrator\Desktop\template__\template__\bin\Debug\MahApps.Metro.pdb
+C:\Users\Administrator\Desktop\template__\template__\bin\Debug\MahApps.Metro.xml
+C:\Users\Administrator\Desktop\template__\template__\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Administrator\Desktop\template__\template__\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Administrator\Desktop\template__\template__\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Administrator\Desktop\template__\template__\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Administrator\Desktop\template__\template__\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Administrator\Desktop\template__\template__\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\template__\template__\obj\Debug\template__.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\template__\template__\obj\Debug\Views\Windows\MainWindow.g.cs
+C:\Users\Administrator\Desktop\template__\template__\obj\Debug\App.g.cs
+C:\Users\Administrator\Desktop\template__\template__\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Administrator\Desktop\template__\template__\obj\Debug\template___MarkupCompile.cache
+C:\Users\Administrator\Desktop\template__\template__\obj\Debug\template___MarkupCompile.lref
+C:\Users\Administrator\Desktop\template__\template__\obj\Debug\App.baml
+C:\Users\Administrator\Desktop\template__\template__\obj\Debug\ResourceXaml\MainResource.baml
+C:\Users\Administrator\Desktop\template__\template__\obj\Debug\Views\Windows\MainWindow.baml
+C:\Users\Administrator\Desktop\template__\template__\obj\Debug\template__.g.resources
+C:\Users\Administrator\Desktop\template__\template__\obj\Debug\template__.Properties.Resources.resources
+C:\Users\Administrator\Desktop\template__\template__\obj\Debug\template__.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\template__\template__\obj\Debug\template__.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\template__\template__\obj\Debug\template__.csproj.CopyComplete
+C:\Users\Administrator\Desktop\template__\template__\obj\Debug\template__.exe
+C:\Users\Administrator\Desktop\template__\template__\obj\Debug\template__.pdb
+C:\Users\NC TEAM\Desktop\duyanh\AndroidManagerment\AndroidManagerment\bin\Debug\_template\Window\MVVM\template__\template__\obj\Debug\App.g.cs
+C:\Users\NC TEAM\Desktop\duyanh\AndroidManagerment\AndroidManagerment\bin\Debug\_template\Window\MVVM\template__\template__\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\NC TEAM\Desktop\duyanh\AndroidManagerment\AndroidManagerment\bin\Debug\_template\Window\MVVM\template__\template__\obj\Debug\template___MarkupCompile.cache
+C:\Users\NC TEAM\Desktop\duyanh\AndroidManagerment\AndroidManagerment\bin\Debug\_template\Window\MVVM\template__\template__\obj\Debug\template___MarkupCompile.lref
+C:\Users\NC TEAM\Desktop\duyanh\AndroidManagerment\AndroidManagerment\bin\Debug\_template\Window\MVVM\template__\template__\obj\Debug\template__.csprojAssemblyReference.cache
+C:\Users\NC TEAM\Desktop\duyanh\AndroidManagerment\AndroidManagerment\bin\Debug\_template\Window\MVVM\template__\template__\obj\Debug\Views\Windows\MainWindow.g.cs
+C:\Users\NC TEAM\Desktop\duyanh\AndroidManagerment\AndroidManagerment\bin\Debug\_template\Window\MVVM\template__\template__\bin\Debug\template__.exe.config
+C:\Users\NC TEAM\Desktop\duyanh\AndroidManagerment\AndroidManagerment\bin\Debug\_template\Window\MVVM\template__\template__\bin\Debug\template__.exe
+C:\Users\NC TEAM\Desktop\duyanh\AndroidManagerment\AndroidManagerment\bin\Debug\_template\Window\MVVM\template__\template__\bin\Debug\template__.pdb
+C:\Users\NC TEAM\Desktop\duyanh\AndroidManagerment\AndroidManagerment\bin\Debug\_template\Window\MVVM\template__\template__\bin\Debug\AutoMapper.dll
+C:\Users\NC TEAM\Desktop\duyanh\AndroidManagerment\AndroidManagerment\bin\Debug\_template\Window\MVVM\template__\template__\bin\Debug\ControlzEx.dll
+C:\Users\NC TEAM\Desktop\duyanh\AndroidManagerment\AndroidManagerment\bin\Debug\_template\Window\MVVM\template__\template__\bin\Debug\MahApps.Metro.dll
+C:\Users\NC TEAM\Desktop\duyanh\AndroidManagerment\AndroidManagerment\bin\Debug\_template\Window\MVVM\template__\template__\bin\Debug\MaterialDesignColors.dll
+C:\Users\NC TEAM\Desktop\duyanh\AndroidManagerment\AndroidManagerment\bin\Debug\_template\Window\MVVM\template__\template__\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\NC TEAM\Desktop\duyanh\AndroidManagerment\AndroidManagerment\bin\Debug\_template\Window\MVVM\template__\template__\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\NC TEAM\Desktop\duyanh\AndroidManagerment\AndroidManagerment\bin\Debug\_template\Window\MVVM\template__\template__\bin\Debug\Newtonsoft.Json.dll
+C:\Users\NC TEAM\Desktop\duyanh\AndroidManagerment\AndroidManagerment\bin\Debug\_template\Window\MVVM\template__\template__\bin\Debug\AutoMapper.xml
+C:\Users\NC TEAM\Desktop\duyanh\AndroidManagerment\AndroidManagerment\bin\Debug\_template\Window\MVVM\template__\template__\bin\Debug\ControlzEx.pdb
+C:\Users\NC TEAM\Desktop\duyanh\AndroidManagerment\AndroidManagerment\bin\Debug\_template\Window\MVVM\template__\template__\bin\Debug\ControlzEx.xml
+C:\Users\NC TEAM\Desktop\duyanh\AndroidManagerment\AndroidManagerment\bin\Debug\_template\Window\MVVM\template__\template__\bin\Debug\MahApps.Metro.pdb
+C:\Users\NC TEAM\Desktop\duyanh\AndroidManagerment\AndroidManagerment\bin\Debug\_template\Window\MVVM\template__\template__\bin\Debug\MahApps.Metro.xml
+C:\Users\NC TEAM\Desktop\duyanh\AndroidManagerment\AndroidManagerment\bin\Debug\_template\Window\MVVM\template__\template__\bin\Debug\MaterialDesignColors.pdb
+C:\Users\NC TEAM\Desktop\duyanh\AndroidManagerment\AndroidManagerment\bin\Debug\_template\Window\MVVM\template__\template__\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\NC TEAM\Desktop\duyanh\AndroidManagerment\AndroidManagerment\bin\Debug\_template\Window\MVVM\template__\template__\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\NC TEAM\Desktop\duyanh\AndroidManagerment\AndroidManagerment\bin\Debug\_template\Window\MVVM\template__\template__\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\NC TEAM\Desktop\duyanh\AndroidManagerment\AndroidManagerment\bin\Debug\_template\Window\MVVM\template__\template__\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\NC TEAM\Desktop\duyanh\AndroidManagerment\AndroidManagerment\bin\Debug\_template\Window\MVVM\template__\template__\bin\Debug\Newtonsoft.Json.xml
+C:\Users\NC TEAM\Desktop\duyanh\AndroidManagerment\AndroidManagerment\bin\Debug\_template\Window\MVVM\template__\template__\bin\Debug\de\MahApps.Metro.resources.dll
+C:\Users\NC TEAM\Desktop\duyanh\AndroidManagerment\AndroidManagerment\bin\Debug\_template\Window\MVVM\template__\template__\obj\Debug\App.baml
+C:\Users\NC TEAM\Desktop\duyanh\AndroidManagerment\AndroidManagerment\bin\Debug\_template\Window\MVVM\template__\template__\obj\Debug\ResourceXaml\MainResource.baml
+C:\Users\NC TEAM\Desktop\duyanh\AndroidManagerment\AndroidManagerment\bin\Debug\_template\Window\MVVM\template__\template__\obj\Debug\Views\Windows\MainWindow.baml
+C:\Users\NC TEAM\Desktop\duyanh\AndroidManagerment\AndroidManagerment\bin\Debug\_template\Window\MVVM\template__\template__\obj\Debug\template__.g.resources
+C:\Users\NC TEAM\Desktop\duyanh\AndroidManagerment\AndroidManagerment\bin\Debug\_template\Window\MVVM\template__\template__\obj\Debug\template__.Properties.Resources.resources
+C:\Users\NC TEAM\Desktop\duyanh\AndroidManagerment\AndroidManagerment\bin\Debug\_template\Window\MVVM\template__\template__\obj\Debug\template__.csproj.GenerateResource.cache
+C:\Users\NC TEAM\Desktop\duyanh\AndroidManagerment\AndroidManagerment\bin\Debug\_template\Window\MVVM\template__\template__\obj\Debug\template__.csproj.CoreCompileInputs.cache
+C:\Users\NC TEAM\Desktop\duyanh\AndroidManagerment\AndroidManagerment\bin\Debug\_template\Window\MVVM\template__\template__\obj\Debug\template__.csproj.CopyComplete
+C:\Users\NC TEAM\Desktop\duyanh\AndroidManagerment\AndroidManagerment\bin\Debug\_template\Window\MVVM\template__\template__\obj\Debug\template__.exe
+C:\Users\NC TEAM\Desktop\duyanh\AndroidManagerment\AndroidManagerment\bin\Debug\_template\Window\MVVM\template__\template__\obj\Debug\template__.pdb

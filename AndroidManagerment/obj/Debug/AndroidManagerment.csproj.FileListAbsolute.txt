@@ -1,0 +1,247 @@
+E:\Visual Studio 2015\Projects\AndroidManagerment\AndroidManagerment\AndroidManagerment\bin\Debug\AndroidManagerment.exe.config
+E:\Visual Studio 2015\Projects\AndroidManagerment\AndroidManagerment\AndroidManagerment\bin\Debug\AndroidManagerment.exe
+E:\Visual Studio 2015\Projects\AndroidManagerment\AndroidManagerment\AndroidManagerment\bin\Debug\AndroidManagerment.pdb
+E:\Visual Studio 2015\Projects\AndroidManagerment\AndroidManagerment\AndroidManagerment\bin\Debug\MaterialDesignColors.dll
+E:\Visual Studio 2015\Projects\AndroidManagerment\AndroidManagerment\AndroidManagerment\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\Visual Studio 2015\Projects\AndroidManagerment\AndroidManagerment\AndroidManagerment\bin\Debug\MaterialDesignColors.pdb
+E:\Visual Studio 2015\Projects\AndroidManagerment\AndroidManagerment\AndroidManagerment\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\Visual Studio 2015\Projects\AndroidManagerment\AndroidManagerment\AndroidManagerment\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\Visual Studio 2015\Projects\AndroidManagerment\AndroidManagerment\AndroidManagerment\obj\Debug\AndroidManagerment.csprojAssemblyReference.cache
+E:\Visual Studio 2015\Projects\AndroidManagerment\AndroidManagerment\AndroidManagerment\obj\Debug\MainWindow.g.cs
+E:\Visual Studio 2015\Projects\AndroidManagerment\AndroidManagerment\AndroidManagerment\obj\Debug\App.g.cs
+E:\Visual Studio 2015\Projects\AndroidManagerment\AndroidManagerment\AndroidManagerment\obj\Debug\AndroidManagerment_MarkupCompile.cache
+E:\Visual Studio 2015\Projects\AndroidManagerment\AndroidManagerment\AndroidManagerment\obj\Debug\AndroidManagerment_MarkupCompile.lref
+E:\Visual Studio 2015\Projects\AndroidManagerment\AndroidManagerment\AndroidManagerment\obj\Debug\App.baml
+E:\Visual Studio 2015\Projects\AndroidManagerment\AndroidManagerment\AndroidManagerment\obj\Debug\MainWindow.baml
+E:\Visual Studio 2015\Projects\AndroidManagerment\AndroidManagerment\AndroidManagerment\obj\Debug\AndroidManagerment.g.resources
+E:\Visual Studio 2015\Projects\AndroidManagerment\AndroidManagerment\AndroidManagerment\obj\Debug\AndroidManagerment.Properties.Resources.resources
+E:\Visual Studio 2015\Projects\AndroidManagerment\AndroidManagerment\AndroidManagerment\obj\Debug\AndroidManagerment.csproj.GenerateResource.cache
+E:\Visual Studio 2015\Projects\AndroidManagerment\AndroidManagerment\AndroidManagerment\obj\Debug\AndroidManagerment.csproj.CoreCompileInputs.cache
+E:\Visual Studio 2015\Projects\AndroidManagerment\AndroidManagerment\AndroidManagerment\obj\Debug\AndroidManagerment.csproj.CopyComplete
+E:\Visual Studio 2015\Projects\AndroidManagerment\AndroidManagerment\AndroidManagerment\obj\Debug\AndroidManagerment.exe
+E:\Visual Studio 2015\Projects\AndroidManagerment\AndroidManagerment\AndroidManagerment\obj\Debug\AndroidManagerment.pdb
+E:\Visual Studio 2015\Projects\AndroidManagerment\AndroidManagerment\AndroidManagerment\bin\Debug\Newtonsoft.Json.dll
+E:\Visual Studio 2015\Projects\AndroidManagerment\AndroidManagerment\AndroidManagerment\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Downloads\AndroidManagerment\AndroidManagerment\AndroidManagerment\AndroidManagerment\obj\Debug\AndroidManagerment.csprojAssemblyReference.cache
+C:\Users\Administrator\Downloads\AndroidManagerment\AndroidManagerment\AndroidManagerment\AndroidManagerment\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Downloads\AndroidManagerment\AndroidManagerment\AndroidManagerment\AndroidManagerment\obj\Debug\App.g.cs
+C:\Users\Administrator\Downloads\AndroidManagerment\AndroidManagerment\AndroidManagerment\AndroidManagerment\obj\Debug\AndroidManagerment_MarkupCompile.cache
+C:\Users\Administrator\Downloads\AndroidManagerment\AndroidManagerment\AndroidManagerment\AndroidManagerment\obj\Debug\AndroidManagerment_MarkupCompile.lref
+C:\Users\Administrator\Downloads\AndroidManagerment\AndroidManagerment\AndroidManagerment\AndroidManagerment\obj\Debug\AndroidManagerment.exe
+C:\Users\Administrator\Downloads\AndroidManagerment\AndroidManagerment\AndroidManagerment\AndroidManagerment\obj\Debug\AndroidManagerment.pdb
+C:\Users\Administrator\Downloads\AndroidManagerment\AndroidManagerment\AndroidManagerment\AndroidManagerment\bin\Debug\AndroidManagerment.exe.config
+C:\Users\Administrator\Downloads\AndroidManagerment\AndroidManagerment\AndroidManagerment\AndroidManagerment\bin\Debug\AndroidManagerment.exe
+C:\Users\Administrator\Downloads\AndroidManagerment\AndroidManagerment\AndroidManagerment\AndroidManagerment\bin\Debug\AndroidManagerment.pdb
+C:\Users\Administrator\Downloads\AndroidManagerment\AndroidManagerment\AndroidManagerment\AndroidManagerment\bin\Debug\MaterialDesignColors.dll
+C:\Users\Administrator\Downloads\AndroidManagerment\AndroidManagerment\AndroidManagerment\AndroidManagerment\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Administrator\Downloads\AndroidManagerment\AndroidManagerment\AndroidManagerment\AndroidManagerment\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Downloads\AndroidManagerment\AndroidManagerment\AndroidManagerment\AndroidManagerment\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Administrator\Downloads\AndroidManagerment\AndroidManagerment\AndroidManagerment\AndroidManagerment\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Administrator\Downloads\AndroidManagerment\AndroidManagerment\AndroidManagerment\AndroidManagerment\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Administrator\Downloads\AndroidManagerment\AndroidManagerment\AndroidManagerment\AndroidManagerment\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Downloads\AndroidManagerment\AndroidManagerment\AndroidManagerment\AndroidManagerment\obj\Debug\App.baml
+C:\Users\Administrator\Downloads\AndroidManagerment\AndroidManagerment\AndroidManagerment\AndroidManagerment\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Downloads\AndroidManagerment\AndroidManagerment\AndroidManagerment\AndroidManagerment\obj\Debug\AndroidManagerment.g.resources
+C:\Users\Administrator\Downloads\AndroidManagerment\AndroidManagerment\AndroidManagerment\AndroidManagerment\obj\Debug\AndroidManagerment.Properties.Resources.resources
+C:\Users\Administrator\Downloads\AndroidManagerment\AndroidManagerment\AndroidManagerment\AndroidManagerment\obj\Debug\AndroidManagerment.csproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\AndroidManagerment\AndroidManagerment\AndroidManagerment\AndroidManagerment\obj\Debug\AndroidManagerment.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\AndroidManagerment\AndroidManagerment\AndroidManagerment\AndroidManagerment\obj\Debug\AndroidManagerment.csproj.CopyComplete
+D:\Downloads\Zalo\AndroidManagerment\AndroidManagerment\AndroidManagerment\AndroidManagerment\bin\Debug\AndroidManagerment.exe.config
+D:\Downloads\Zalo\AndroidManagerment\AndroidManagerment\AndroidManagerment\AndroidManagerment\bin\Debug\AndroidManagerment.exe
+D:\Downloads\Zalo\AndroidManagerment\AndroidManagerment\AndroidManagerment\AndroidManagerment\bin\Debug\AndroidManagerment.pdb
+D:\Downloads\Zalo\AndroidManagerment\AndroidManagerment\AndroidManagerment\AndroidManagerment\bin\Debug\MaterialDesignColors.dll
+D:\Downloads\Zalo\AndroidManagerment\AndroidManagerment\AndroidManagerment\AndroidManagerment\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Downloads\Zalo\AndroidManagerment\AndroidManagerment\AndroidManagerment\AndroidManagerment\bin\Debug\Newtonsoft.Json.dll
+D:\Downloads\Zalo\AndroidManagerment\AndroidManagerment\AndroidManagerment\AndroidManagerment\bin\Debug\MaterialDesignColors.pdb
+D:\Downloads\Zalo\AndroidManagerment\AndroidManagerment\AndroidManagerment\AndroidManagerment\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Downloads\Zalo\AndroidManagerment\AndroidManagerment\AndroidManagerment\AndroidManagerment\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Downloads\Zalo\AndroidManagerment\AndroidManagerment\AndroidManagerment\AndroidManagerment\bin\Debug\Newtonsoft.Json.xml
+D:\Downloads\Zalo\AndroidManagerment\AndroidManagerment\AndroidManagerment\AndroidManagerment\obj\Debug\MainWindow.g.cs
+D:\Downloads\Zalo\AndroidManagerment\AndroidManagerment\AndroidManagerment\AndroidManagerment\obj\Debug\App.g.cs
+D:\Downloads\Zalo\AndroidManagerment\AndroidManagerment\AndroidManagerment\AndroidManagerment\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Downloads\Zalo\AndroidManagerment\AndroidManagerment\AndroidManagerment\AndroidManagerment\obj\Debug\AndroidManagerment_MarkupCompile.cache
+D:\Downloads\Zalo\AndroidManagerment\AndroidManagerment\AndroidManagerment\AndroidManagerment\obj\Debug\AndroidManagerment_MarkupCompile.lref
+D:\Downloads\Zalo\AndroidManagerment\AndroidManagerment\AndroidManagerment\AndroidManagerment\obj\Debug\App.baml
+D:\Downloads\Zalo\AndroidManagerment\AndroidManagerment\AndroidManagerment\AndroidManagerment\obj\Debug\MainWindow.baml
+D:\Downloads\Zalo\AndroidManagerment\AndroidManagerment\AndroidManagerment\AndroidManagerment\obj\Debug\AndroidManagerment.g.resources
+D:\Downloads\Zalo\AndroidManagerment\AndroidManagerment\AndroidManagerment\AndroidManagerment\obj\Debug\AndroidManagerment.Properties.Resources.resources
+D:\Downloads\Zalo\AndroidManagerment\AndroidManagerment\AndroidManagerment\AndroidManagerment\obj\Debug\AndroidManagerment.csproj.GenerateResource.cache
+D:\Downloads\Zalo\AndroidManagerment\AndroidManagerment\AndroidManagerment\AndroidManagerment\obj\Debug\AndroidManagerment.csproj.CoreCompileInputs.cache
+D:\Downloads\Zalo\AndroidManagerment\AndroidManagerment\AndroidManagerment\AndroidManagerment\obj\Debug\AndroidManagerment.csproj.CopyComplete
+D:\Downloads\Zalo\AndroidManagerment\AndroidManagerment\AndroidManagerment\AndroidManagerment\obj\Debug\AndroidManagerment.exe
+D:\Downloads\Zalo\AndroidManagerment\AndroidManagerment\AndroidManagerment\AndroidManagerment\obj\Debug\AndroidManagerment.pdb
+D:\Downloads\Zalo\AndroidManagerment\AndroidManagerment\AndroidManagerment\AndroidManagerment\obj\Debug\AndroidManagerment.csprojAssemblyReference.cache
+C:\Users\Administrator\Downloads\Zalo\AndroidManagerment\AndroidManagerment\AndroidManagerment\AndroidManagerment\bin\Debug\AndroidManagerment.exe.config
+C:\Users\Administrator\Downloads\Zalo\AndroidManagerment\AndroidManagerment\AndroidManagerment\AndroidManagerment\bin\Debug\AndroidManagerment.exe
+C:\Users\Administrator\Downloads\Zalo\AndroidManagerment\AndroidManagerment\AndroidManagerment\AndroidManagerment\bin\Debug\AndroidManagerment.pdb
+C:\Users\Administrator\Downloads\Zalo\AndroidManagerment\AndroidManagerment\AndroidManagerment\AndroidManagerment\bin\Debug\MaterialDesignColors.dll
+C:\Users\Administrator\Downloads\Zalo\AndroidManagerment\AndroidManagerment\AndroidManagerment\AndroidManagerment\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Administrator\Downloads\Zalo\AndroidManagerment\AndroidManagerment\AndroidManagerment\AndroidManagerment\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Downloads\Zalo\AndroidManagerment\AndroidManagerment\AndroidManagerment\AndroidManagerment\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Administrator\Downloads\Zalo\AndroidManagerment\AndroidManagerment\AndroidManagerment\AndroidManagerment\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Administrator\Downloads\Zalo\AndroidManagerment\AndroidManagerment\AndroidManagerment\AndroidManagerment\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Administrator\Downloads\Zalo\AndroidManagerment\AndroidManagerment\AndroidManagerment\AndroidManagerment\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Downloads\Zalo\AndroidManagerment\AndroidManagerment\AndroidManagerment\AndroidManagerment\obj\Debug\AndroidManagerment.csprojAssemblyReference.cache
+C:\Users\Administrator\Downloads\Zalo\AndroidManagerment\AndroidManagerment\AndroidManagerment\AndroidManagerment\obj\Debug\Dialogs\DialogBase.g.cs
+C:\Users\Administrator\Downloads\Zalo\AndroidManagerment\AndroidManagerment\AndroidManagerment\AndroidManagerment\obj\Debug\Dialogs\DialogProcess.g.cs
+C:\Users\Administrator\Downloads\Zalo\AndroidManagerment\AndroidManagerment\AndroidManagerment\AndroidManagerment\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Downloads\Zalo\AndroidManagerment\AndroidManagerment\AndroidManagerment\AndroidManagerment\obj\Debug\App.g.cs
+C:\Users\Administrator\Downloads\Zalo\AndroidManagerment\AndroidManagerment\AndroidManagerment\AndroidManagerment\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Administrator\Downloads\Zalo\AndroidManagerment\AndroidManagerment\AndroidManagerment\AndroidManagerment\obj\Debug\AndroidManagerment_MarkupCompile.cache
+C:\Users\Administrator\Downloads\Zalo\AndroidManagerment\AndroidManagerment\AndroidManagerment\AndroidManagerment\obj\Debug\AndroidManagerment_MarkupCompile.lref
+C:\Users\Administrator\Downloads\Zalo\AndroidManagerment\AndroidManagerment\AndroidManagerment\AndroidManagerment\obj\Debug\App.baml
+C:\Users\Administrator\Downloads\Zalo\AndroidManagerment\AndroidManagerment\AndroidManagerment\AndroidManagerment\obj\Debug\Dialogs\DialogBase.baml
+C:\Users\Administrator\Downloads\Zalo\AndroidManagerment\AndroidManagerment\AndroidManagerment\AndroidManagerment\obj\Debug\Dialogs\DialogProcess.baml
+C:\Users\Administrator\Downloads\Zalo\AndroidManagerment\AndroidManagerment\AndroidManagerment\AndroidManagerment\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Downloads\Zalo\AndroidManagerment\AndroidManagerment\AndroidManagerment\AndroidManagerment\obj\Debug\AndroidManagerment.g.resources
+C:\Users\Administrator\Downloads\Zalo\AndroidManagerment\AndroidManagerment\AndroidManagerment\AndroidManagerment\obj\Debug\AndroidManagerment.Properties.Resources.resources
+C:\Users\Administrator\Downloads\Zalo\AndroidManagerment\AndroidManagerment\AndroidManagerment\AndroidManagerment\obj\Debug\AndroidManagerment.csproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\Zalo\AndroidManagerment\AndroidManagerment\AndroidManagerment\AndroidManagerment\obj\Debug\AndroidManagerment.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\Zalo\AndroidManagerment\AndroidManagerment\AndroidManagerment\AndroidManagerment\obj\Debug\AndroidManagerment.csproj.CopyComplete
+C:\Users\Administrator\Downloads\Zalo\AndroidManagerment\AndroidManagerment\AndroidManagerment\AndroidManagerment\obj\Debug\AndroidManagerment.exe
+C:\Users\Administrator\Downloads\Zalo\AndroidManagerment\AndroidManagerment\AndroidManagerment\AndroidManagerment\obj\Debug\AndroidManagerment.pdb
+C:\Users\Administrator\Downloads\Zalo\AndroidManagerment\AndroidManagerment\AndroidManagerment\AndroidManagerment\obj\Debug\Dialogs\SimpleDialog.g.cs
+C:\Users\Administrator\Downloads\Zalo\AndroidManagerment\AndroidManagerment\AndroidManagerment\AndroidManagerment\obj\Debug\Dialogs\SimpleDialog.baml
+C:\Users\Administrator\Downloads\Zalo\AndroidManagerment\AndroidManagerment\AndroidManagerment\AndroidManagerment\obj\Debug\Views\ProjectView.g.cs
+C:\Users\Administrator\Downloads\Zalo\AndroidManagerment\AndroidManagerment\AndroidManagerment\AndroidManagerment\obj\Debug\Views\ProjectView.baml
+C:\Users\Administrator\Downloads\Zalo\AndroidManagerment\AndroidManagerment\AndroidManagerment\AndroidManagerment\obj\Debug\Views\Test.g.cs
+C:\Users\Administrator\Downloads\Zalo\AndroidManagerment\AndroidManagerment\AndroidManagerment\AndroidManagerment\obj\Debug\Views\Test.baml
+C:\Users\Administrator\Desktop\AndroidManagerment\AndroidManagerment\bin\Debug\AndroidManagerment.exe.config
+C:\Users\Administrator\Desktop\AndroidManagerment\AndroidManagerment\bin\Debug\AndroidManagerment.exe
+C:\Users\Administrator\Desktop\AndroidManagerment\AndroidManagerment\bin\Debug\AndroidManagerment.pdb
+C:\Users\Administrator\Desktop\AndroidManagerment\AndroidManagerment\bin\Debug\MaterialDesignColors.dll
+C:\Users\Administrator\Desktop\AndroidManagerment\AndroidManagerment\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Administrator\Desktop\AndroidManagerment\AndroidManagerment\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\AndroidManagerment\AndroidManagerment\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Administrator\Desktop\AndroidManagerment\AndroidManagerment\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Administrator\Desktop\AndroidManagerment\AndroidManagerment\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Administrator\Desktop\AndroidManagerment\AndroidManagerment\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\AndroidManagerment\AndroidManagerment\obj\Debug\Dialogs\DialogBase.g.cs
+C:\Users\Administrator\Desktop\AndroidManagerment\AndroidManagerment\obj\Debug\Dialogs\DialogProcess.g.cs
+C:\Users\Administrator\Desktop\AndroidManagerment\AndroidManagerment\obj\Debug\Dialogs\SimpleDialog.g.cs
+C:\Users\Administrator\Desktop\AndroidManagerment\AndroidManagerment\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\AndroidManagerment\AndroidManagerment\obj\Debug\Views\ProjectView.g.cs
+C:\Users\Administrator\Desktop\AndroidManagerment\AndroidManagerment\obj\Debug\Views\Test.g.cs
+C:\Users\Administrator\Desktop\AndroidManagerment\AndroidManagerment\obj\Debug\App.g.cs
+C:\Users\Administrator\Desktop\AndroidManagerment\AndroidManagerment\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Administrator\Desktop\AndroidManagerment\AndroidManagerment\obj\Debug\AndroidManagerment_MarkupCompile.cache
+C:\Users\Administrator\Desktop\AndroidManagerment\AndroidManagerment\obj\Debug\AndroidManagerment_MarkupCompile.lref
+C:\Users\Administrator\Desktop\AndroidManagerment\AndroidManagerment\obj\Debug\App.baml
+C:\Users\Administrator\Desktop\AndroidManagerment\AndroidManagerment\obj\Debug\Dialogs\DialogBase.baml
+C:\Users\Administrator\Desktop\AndroidManagerment\AndroidManagerment\obj\Debug\Dialogs\DialogProcess.baml
+C:\Users\Administrator\Desktop\AndroidManagerment\AndroidManagerment\obj\Debug\Dialogs\SimpleDialog.baml
+C:\Users\Administrator\Desktop\AndroidManagerment\AndroidManagerment\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\AndroidManagerment\AndroidManagerment\obj\Debug\Views\ProjectView.baml
+C:\Users\Administrator\Desktop\AndroidManagerment\AndroidManagerment\obj\Debug\Views\Test.baml
+C:\Users\Administrator\Desktop\AndroidManagerment\AndroidManagerment\obj\Debug\AndroidManagerment.g.resources
+C:\Users\Administrator\Desktop\AndroidManagerment\AndroidManagerment\obj\Debug\AndroidManagerment.Properties.Resources.resources
+C:\Users\Administrator\Desktop\AndroidManagerment\AndroidManagerment\obj\Debug\AndroidManagerment.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\AndroidManagerment\AndroidManagerment\obj\Debug\AndroidManagerment.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\AndroidManagerment\AndroidManagerment\obj\Debug\AndroidManagerment.csproj.CopyComplete
+C:\Users\Administrator\Desktop\AndroidManagerment\AndroidManagerment\obj\Debug\AndroidManagerment.exe
+C:\Users\Administrator\Desktop\AndroidManagerment\AndroidManagerment\obj\Debug\AndroidManagerment.pdb
+C:\Users\WINDOWS TEAM\Downloads\AndroidManagerment\AndroidManagerment\AndroidManagerment\bin\Debug\AndroidManagerment.exe.config
+C:\Users\WINDOWS TEAM\Downloads\AndroidManagerment\AndroidManagerment\AndroidManagerment\bin\Debug\AndroidManagerment.exe
+C:\Users\WINDOWS TEAM\Downloads\AndroidManagerment\AndroidManagerment\AndroidManagerment\bin\Debug\AndroidManagerment.pdb
+C:\Users\WINDOWS TEAM\Downloads\AndroidManagerment\AndroidManagerment\AndroidManagerment\bin\Debug\MaterialDesignColors.dll
+C:\Users\WINDOWS TEAM\Downloads\AndroidManagerment\AndroidManagerment\AndroidManagerment\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\WINDOWS TEAM\Downloads\AndroidManagerment\AndroidManagerment\AndroidManagerment\bin\Debug\Newtonsoft.Json.dll
+C:\Users\WINDOWS TEAM\Downloads\AndroidManagerment\AndroidManagerment\AndroidManagerment\bin\Debug\MaterialDesignColors.pdb
+C:\Users\WINDOWS TEAM\Downloads\AndroidManagerment\AndroidManagerment\AndroidManagerment\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\WINDOWS TEAM\Downloads\AndroidManagerment\AndroidManagerment\AndroidManagerment\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\WINDOWS TEAM\Downloads\AndroidManagerment\AndroidManagerment\AndroidManagerment\bin\Debug\Newtonsoft.Json.xml
+C:\Users\WINDOWS TEAM\Downloads\AndroidManagerment\AndroidManagerment\AndroidManagerment\obj\Debug\AndroidManagerment.csprojAssemblyReference.cache
+C:\Users\WINDOWS TEAM\Downloads\AndroidManagerment\AndroidManagerment\AndroidManagerment\obj\Debug\Dialogs\DialogBase.g.cs
+C:\Users\WINDOWS TEAM\Downloads\AndroidManagerment\AndroidManagerment\AndroidManagerment\obj\Debug\Dialogs\DialogProcess.g.cs
+C:\Users\WINDOWS TEAM\Downloads\AndroidManagerment\AndroidManagerment\AndroidManagerment\obj\Debug\Dialogs\SimpleDialog.g.cs
+C:\Users\WINDOWS TEAM\Downloads\AndroidManagerment\AndroidManagerment\AndroidManagerment\obj\Debug\MainWindow.g.cs
+C:\Users\WINDOWS TEAM\Downloads\AndroidManagerment\AndroidManagerment\AndroidManagerment\obj\Debug\Views\ProjectView.g.cs
+C:\Users\WINDOWS TEAM\Downloads\AndroidManagerment\AndroidManagerment\AndroidManagerment\obj\Debug\Views\Test.g.cs
+C:\Users\WINDOWS TEAM\Downloads\AndroidManagerment\AndroidManagerment\AndroidManagerment\obj\Debug\App.g.cs
+C:\Users\WINDOWS TEAM\Downloads\AndroidManagerment\AndroidManagerment\AndroidManagerment\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\WINDOWS TEAM\Downloads\AndroidManagerment\AndroidManagerment\AndroidManagerment\obj\Debug\AndroidManagerment_MarkupCompile.cache
+C:\Users\WINDOWS TEAM\Downloads\AndroidManagerment\AndroidManagerment\AndroidManagerment\obj\Debug\AndroidManagerment_MarkupCompile.lref
+C:\Users\WINDOWS TEAM\Downloads\AndroidManagerment\AndroidManagerment\AndroidManagerment\obj\Debug\App.baml
+C:\Users\WINDOWS TEAM\Downloads\AndroidManagerment\AndroidManagerment\AndroidManagerment\obj\Debug\Dialogs\DialogBase.baml
+C:\Users\WINDOWS TEAM\Downloads\AndroidManagerment\AndroidManagerment\AndroidManagerment\obj\Debug\Dialogs\DialogProcess.baml
+C:\Users\WINDOWS TEAM\Downloads\AndroidManagerment\AndroidManagerment\AndroidManagerment\obj\Debug\Dialogs\SimpleDialog.baml
+C:\Users\WINDOWS TEAM\Downloads\AndroidManagerment\AndroidManagerment\AndroidManagerment\obj\Debug\MainWindow.baml
+C:\Users\WINDOWS TEAM\Downloads\AndroidManagerment\AndroidManagerment\AndroidManagerment\obj\Debug\Views\ProjectView.baml
+C:\Users\WINDOWS TEAM\Downloads\AndroidManagerment\AndroidManagerment\AndroidManagerment\obj\Debug\Views\Test.baml
+C:\Users\WINDOWS TEAM\Downloads\AndroidManagerment\AndroidManagerment\AndroidManagerment\obj\Debug\AndroidManagerment.g.resources
+C:\Users\WINDOWS TEAM\Downloads\AndroidManagerment\AndroidManagerment\AndroidManagerment\obj\Debug\AndroidManagerment.Properties.Resources.resources
+C:\Users\WINDOWS TEAM\Downloads\AndroidManagerment\AndroidManagerment\AndroidManagerment\obj\Debug\AndroidManagerment.csproj.GenerateResource.cache
+C:\Users\WINDOWS TEAM\Downloads\AndroidManagerment\AndroidManagerment\AndroidManagerment\obj\Debug\AndroidManagerment.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS TEAM\Downloads\AndroidManagerment\AndroidManagerment\AndroidManagerment\obj\Debug\AndroidManagerment.csproj.CopyComplete
+C:\Users\WINDOWS TEAM\Downloads\AndroidManagerment\AndroidManagerment\AndroidManagerment\obj\Debug\AndroidManagerment.exe
+C:\Users\WINDOWS TEAM\Downloads\AndroidManagerment\AndroidManagerment\AndroidManagerment\obj\Debug\AndroidManagerment.pdb
+C:\Users\WINDOWS TEAM\Desktop\AndroidManagerment\AndroidManagerment\bin\Debug\AndroidManagerment.exe.config
+C:\Users\WINDOWS TEAM\Desktop\AndroidManagerment\AndroidManagerment\bin\Debug\AndroidManagerment.exe
+C:\Users\WINDOWS TEAM\Desktop\AndroidManagerment\AndroidManagerment\bin\Debug\AndroidManagerment.pdb
+C:\Users\WINDOWS TEAM\Desktop\AndroidManagerment\AndroidManagerment\bin\Debug\MaterialDesignColors.dll
+C:\Users\WINDOWS TEAM\Desktop\AndroidManagerment\AndroidManagerment\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\WINDOWS TEAM\Desktop\AndroidManagerment\AndroidManagerment\bin\Debug\Newtonsoft.Json.dll
+C:\Users\WINDOWS TEAM\Desktop\AndroidManagerment\AndroidManagerment\bin\Debug\MaterialDesignColors.pdb
+C:\Users\WINDOWS TEAM\Desktop\AndroidManagerment\AndroidManagerment\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\WINDOWS TEAM\Desktop\AndroidManagerment\AndroidManagerment\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\WINDOWS TEAM\Desktop\AndroidManagerment\AndroidManagerment\bin\Debug\Newtonsoft.Json.xml
+C:\Users\WINDOWS TEAM\Desktop\AndroidManagerment\AndroidManagerment\obj\Debug\AndroidManagerment.csprojAssemblyReference.cache
+C:\Users\WINDOWS TEAM\Desktop\AndroidManagerment\AndroidManagerment\obj\Debug\Dialogs\DialogBase.g.cs
+C:\Users\WINDOWS TEAM\Desktop\AndroidManagerment\AndroidManagerment\obj\Debug\Dialogs\DialogProcess.g.cs
+C:\Users\WINDOWS TEAM\Desktop\AndroidManagerment\AndroidManagerment\obj\Debug\Dialogs\SimpleDialog.g.cs
+C:\Users\WINDOWS TEAM\Desktop\AndroidManagerment\AndroidManagerment\obj\Debug\MainWindow.g.cs
+C:\Users\WINDOWS TEAM\Desktop\AndroidManagerment\AndroidManagerment\obj\Debug\Views\ProjectView.g.cs
+C:\Users\WINDOWS TEAM\Desktop\AndroidManagerment\AndroidManagerment\obj\Debug\Views\Test.g.cs
+C:\Users\WINDOWS TEAM\Desktop\AndroidManagerment\AndroidManagerment\obj\Debug\App.g.cs
+C:\Users\WINDOWS TEAM\Desktop\AndroidManagerment\AndroidManagerment\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\WINDOWS TEAM\Desktop\AndroidManagerment\AndroidManagerment\obj\Debug\AndroidManagerment_MarkupCompile.cache
+C:\Users\WINDOWS TEAM\Desktop\AndroidManagerment\AndroidManagerment\obj\Debug\AndroidManagerment_MarkupCompile.lref
+C:\Users\WINDOWS TEAM\Desktop\AndroidManagerment\AndroidManagerment\obj\Debug\App.baml
+C:\Users\WINDOWS TEAM\Desktop\AndroidManagerment\AndroidManagerment\obj\Debug\Dialogs\DialogBase.baml
+C:\Users\WINDOWS TEAM\Desktop\AndroidManagerment\AndroidManagerment\obj\Debug\Dialogs\DialogProcess.baml
+C:\Users\WINDOWS TEAM\Desktop\AndroidManagerment\AndroidManagerment\obj\Debug\Dialogs\SimpleDialog.baml
+C:\Users\WINDOWS TEAM\Desktop\AndroidManagerment\AndroidManagerment\obj\Debug\MainWindow.baml
+C:\Users\WINDOWS TEAM\Desktop\AndroidManagerment\AndroidManagerment\obj\Debug\Views\ProjectView.baml
+C:\Users\WINDOWS TEAM\Desktop\AndroidManagerment\AndroidManagerment\obj\Debug\Views\Test.baml
+C:\Users\WINDOWS TEAM\Desktop\AndroidManagerment\AndroidManagerment\obj\Debug\AndroidManagerment.g.resources
+C:\Users\WINDOWS TEAM\Desktop\AndroidManagerment\AndroidManagerment\obj\Debug\AndroidManagerment.Properties.Resources.resources
+C:\Users\WINDOWS TEAM\Desktop\AndroidManagerment\AndroidManagerment\obj\Debug\AndroidManagerment.csproj.GenerateResource.cache
+C:\Users\WINDOWS TEAM\Desktop\AndroidManagerment\AndroidManagerment\obj\Debug\AndroidManagerment.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS TEAM\Desktop\AndroidManagerment\AndroidManagerment\obj\Debug\AndroidManagerment.csproj.CopyComplete
+C:\Users\WINDOWS TEAM\Desktop\AndroidManagerment\AndroidManagerment\obj\Debug\AndroidManagerment.exe
+C:\Users\WINDOWS TEAM\Desktop\AndroidManagerment\AndroidManagerment\obj\Debug\AndroidManagerment.pdb
+C:\Users\NC TEAM\Desktop\duyanh\AndroidManagerment\AndroidManagerment\bin\Debug\ProjectManager.exe.config
+C:\Users\NC TEAM\Desktop\duyanh\AndroidManagerment\AndroidManagerment\bin\Debug\ProjectManager.exe
+C:\Users\NC TEAM\Desktop\duyanh\AndroidManagerment\AndroidManagerment\bin\Debug\ProjectManager.pdb
+C:\Users\NC TEAM\Desktop\duyanh\AndroidManagerment\AndroidManagerment\bin\Debug\MaterialDesignColors.dll
+C:\Users\NC TEAM\Desktop\duyanh\AndroidManagerment\AndroidManagerment\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\NC TEAM\Desktop\duyanh\AndroidManagerment\AndroidManagerment\bin\Debug\Newtonsoft.Json.dll
+C:\Users\NC TEAM\Desktop\duyanh\AndroidManagerment\AndroidManagerment\bin\Debug\MaterialDesignColors.pdb
+C:\Users\NC TEAM\Desktop\duyanh\AndroidManagerment\AndroidManagerment\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\NC TEAM\Desktop\duyanh\AndroidManagerment\AndroidManagerment\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\NC TEAM\Desktop\duyanh\AndroidManagerment\AndroidManagerment\bin\Debug\Newtonsoft.Json.xml
+C:\Users\NC TEAM\Desktop\duyanh\AndroidManagerment\AndroidManagerment\obj\Debug\AndroidManagerment.csprojAssemblyReference.cache
+C:\Users\NC TEAM\Desktop\duyanh\AndroidManagerment\AndroidManagerment\obj\Debug\Dialogs\DialogBase.g.cs
+C:\Users\NC TEAM\Desktop\duyanh\AndroidManagerment\AndroidManagerment\obj\Debug\Dialogs\DialogProcess.g.cs
+C:\Users\NC TEAM\Desktop\duyanh\AndroidManagerment\AndroidManagerment\obj\Debug\Dialogs\SimpleDialog.g.cs
+C:\Users\NC TEAM\Desktop\duyanh\AndroidManagerment\AndroidManagerment\obj\Debug\MainWindow.g.cs
+C:\Users\NC TEAM\Desktop\duyanh\AndroidManagerment\AndroidManagerment\obj\Debug\Views\ProjectView.g.cs
+C:\Users\NC TEAM\Desktop\duyanh\AndroidManagerment\AndroidManagerment\obj\Debug\Views\Test.g.cs
+C:\Users\NC TEAM\Desktop\duyanh\AndroidManagerment\AndroidManagerment\obj\Debug\App.g.cs
+C:\Users\NC TEAM\Desktop\duyanh\AndroidManagerment\AndroidManagerment\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\NC TEAM\Desktop\duyanh\AndroidManagerment\AndroidManagerment\obj\Debug\ProjectManager_MarkupCompile.cache
+C:\Users\NC TEAM\Desktop\duyanh\AndroidManagerment\AndroidManagerment\obj\Debug\ProjectManager_MarkupCompile.lref
+C:\Users\NC TEAM\Desktop\duyanh\AndroidManagerment\AndroidManagerment\obj\Debug\App.baml
+C:\Users\NC TEAM\Desktop\duyanh\AndroidManagerment\AndroidManagerment\obj\Debug\Dialogs\DialogBase.baml
+C:\Users\NC TEAM\Desktop\duyanh\AndroidManagerment\AndroidManagerment\obj\Debug\Dialogs\DialogProcess.baml
+C:\Users\NC TEAM\Desktop\duyanh\AndroidManagerment\AndroidManagerment\obj\Debug\Dialogs\SimpleDialog.baml
+C:\Users\NC TEAM\Desktop\duyanh\AndroidManagerment\AndroidManagerment\obj\Debug\MainWindow.baml
+C:\Users\NC TEAM\Desktop\duyanh\AndroidManagerment\AndroidManagerment\obj\Debug\Views\ProjectView.baml
+C:\Users\NC TEAM\Desktop\duyanh\AndroidManagerment\AndroidManagerment\obj\Debug\Views\Test.baml
+C:\Users\NC TEAM\Desktop\duyanh\AndroidManagerment\AndroidManagerment\obj\Debug\ProjectManager.g.resources
+C:\Users\NC TEAM\Desktop\duyanh\AndroidManagerment\AndroidManagerment\obj\Debug\ProjectManager.Properties.Resources.resources
+C:\Users\NC TEAM\Desktop\duyanh\AndroidManagerment\AndroidManagerment\obj\Debug\AndroidManagerment.csproj.GenerateResource.cache
+C:\Users\NC TEAM\Desktop\duyanh\AndroidManagerment\AndroidManagerment\obj\Debug\AndroidManagerment.csproj.CoreCompileInputs.cache
+C:\Users\NC TEAM\Desktop\duyanh\AndroidManagerment\AndroidManagerment\obj\Debug\AndroidManagerment.csproj.CopyComplete
+C:\Users\NC TEAM\Desktop\duyanh\AndroidManagerment\AndroidManagerment\obj\Debug\ProjectManager.exe
+C:\Users\NC TEAM\Desktop\duyanh\AndroidManagerment\AndroidManagerment\obj\Debug\ProjectManager.pdb
